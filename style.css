@@ -1,0 +1,14 @@
+h5 {
+    text-align: center;
+}
+table {
+    width: 1300px;
+    border-collapse: collapse;
+    border: 2px solid grey;
+    background-color: lightgrey;
+}
+
+th, td {
+    padding: 8px;
+    border: 1px solid grey;
+}
